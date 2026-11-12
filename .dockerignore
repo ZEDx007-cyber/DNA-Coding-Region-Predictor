@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+*.sqlite3*
+.env
+*.joblib
+*.enc
+private
+tests
+test_*.py

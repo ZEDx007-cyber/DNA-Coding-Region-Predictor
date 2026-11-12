@@ -1,0 +1,11 @@
+Copyright (c) 2026 Ishan Kundu. All rights reserved.
+
+The source code, documentation, and original materials in this repository are
+proprietary. No license or other permission is granted to use, reproduce,
+modify, distribute, sublicense, or create derivative works from these
+materials without prior written permission from Ishan Kundu.
+
+This notice does not claim ownership of third-party data or software. The
+reference-derived FASTA sample in data/lambda_labeled.fasta remains subject
+to the source record's applicable terms; see data/README.md. Third-party
+dependencies retain their own licenses.

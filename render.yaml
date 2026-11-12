@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: dna-studio
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
